@@ -1,0 +1,18 @@
+
+body {
+    width: 1000px;
+    margin: auto;
+    /* border: 1px solid black; */
+}
+#pictureHere{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#bigPicture {
+    font-size: 18pt;
+    
+    
+}
+
