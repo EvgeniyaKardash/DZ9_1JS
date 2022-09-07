@@ -30,7 +30,7 @@ let galery = [
       pictureHere.innerHTML = res1;
 
             let res2="";
-            res2 +=`<img id="id1" src="" style="width:1000px" onclick="closeCard()"><p id="myText"></p>`;
+            res2 +=`<img src="" style="width:1000px" onclick="closeCard()"><p></p>`;
 
             bigPicture.innerHTML = res2;
 
